@@ -1,0 +1,19 @@
+.counts-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .count-circle {
+    width: 40px;
+    height: 40px;
+    font-size: 14px;
+    background: linear-gradient(#E65895, #BC6BE8);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+  }
+  
